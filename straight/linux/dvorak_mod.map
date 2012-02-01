@@ -4,19 +4,19 @@ include "linux-with-alt-and-altgr.inc"
 strings as usual
 
 keycode   1 = Escape           
-keycode   2 = exclam              nine          
-keycode   3 = ampersand              seven               at              nul			nul
-keycode   4 = numbersign            five      
+keycode   2 = exclam              one          
+keycode   3 = ampersand              two               at              nul			nul
+keycode   4 = numbersign            three      
 	control keycode   4 = Escape          
-keycode   5 = asterisk             three           dollar          Control_backslash
-keycode   6 = equal             one         
+keycode   5 = asterisk             four           dollar          Control_backslash
+keycode   6 = equal             five         
 	control keycode   6 = Control_bracketright
-keycode   7 = parenleft              zero     
+keycode   7 = parenleft              six     
 	control keycode   7 = Control_asciicircum
-keycode   8 = parenright            two        braceleft       Control_underscore
-keycode   9 = braceleft            four         bracketleft     Delete
-keycode  10 = braceright             six        bracketright    
-keycode  11 = bracketleft             eight       braceright      
+keycode   8 = parenright            seven        braceleft       Control_underscore
+keycode   9 = braceleft            eight         bracketleft     Delete
+keycode  10 = braceright             nine        bracketright    
+keycode  11 = bracketleft             zero       braceright      
 keycode  12 = bracketright      percent       
 	control keycode  12 = Escape          
 keycode  13 = plus     tilde       asciitilde      Control_bracketright
