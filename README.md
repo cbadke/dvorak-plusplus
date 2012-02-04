@@ -12,11 +12,13 @@ For the Windows file edit using Microsoft Keyboard Layout Creator http://msdn.mi
 ###Linux Console
 
 gzip the keymap file and copy to /usr/share/kbd/keymaps/i386/dvorak/
+
 Either use 'loadkeys dvorak_plusplus' or set the layout in your startup files
 
 ###X11 w/ xkb
 
 Copy the dvk_pp file to /usr/share/X11/xkb/symbols
+
 Set the XkbLayout to dvk_pp in your xorg config files
 
 ###Windows Install
