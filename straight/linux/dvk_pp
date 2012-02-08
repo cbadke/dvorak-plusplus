@@ -19,10 +19,10 @@ xkb_symbols "dvk_pp" {
     // symbols row, right side
     key <AE07> { [ braceright,        7                                           ], type[Group1] = "FOUR_LEVEL_ALPHABETIC" };
     key <AE08> { [ bracketright,      8,              onehalf                     ], type[Group1] = "FOUR_LEVEL_ALPHABETIC" };
-    key <AE09> { [ numbersign,            9                                           ], type[Group1] = "FOUR_LEVEL_ALPHABETIC" };
-    key <AE10> { [ asterisk,    0                                           ], type[Group1] = "FOUR_LEVEL_ALPHABETIC" };
-    key <AE11> { [ equal,          percent,              exclamdown                  ], type[Group1] = "FOUR_LEVEL_ALPHABETIC" };
-    key <AE12> { [ plus,      dollar,          dead_grave                  ] };
+    key <AE09> { [ equal,            9                                           ], type[Group1] = "FOUR_LEVEL_ALPHABETIC" };
+    key <AE10> { [ plus,    0                                           ], type[Group1] = "FOUR_LEVEL_ALPHABETIC" };
+    key <AE11> { [ asterisk,          percent,              exclamdown                  ], type[Group1] = "FOUR_LEVEL_ALPHABETIC" };
+    key <AE12> { [ numbersign,      dollar,          dead_grave                  ] };
     key <BKSP> { [ BackSpace,       BackSpace                                   ] };
 
     // upper row, left side
